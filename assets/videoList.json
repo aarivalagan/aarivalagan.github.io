@@ -1,0 +1,33 @@
+{ "videoList":[
+        {
+          "name":"Item-1",
+          "slug":"Item-1",
+          "embed":"WPvGqX-TXP0",
+          "rule":"Java Rules"
+        },
+        {
+          "name":"Item-1",
+          "slug":"Item-1",
+          "embed":"PRQCAL_RMVo",
+          "rule":"Angular Rules"
+        },
+        {
+          "name":"Item-1",
+          "slug":"Item-1",
+          "embed":"A71aqufiNtQ",
+          "rule":"React Rules"
+        },
+        {
+          "name":"Item-1",
+          "slug":"Item-1",
+          "embed":"yfoY53QXEnI",
+          "rule":"CSS Rules"
+        },
+        {
+          "name":"Item-1",
+          "slug":"Item-1",
+          "embed":"UB1O30fR-EE",
+          "rule":"HTML Rules"
+        }
+      ]
+    }

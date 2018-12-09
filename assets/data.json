@@ -1,0 +1,62 @@
+{"videoList":[{
+    "Java":{
+            "name": "Item-1",
+            "slug": "Item-1",
+            "embed": "WPvGqX-TXP0",
+            "rule": "Java",
+            "isActive": true,
+            "Completed":true,
+            "URL": "https://www.cs.cmu.edu/afs/cs.cmu.edu/user/gchen/www/download/java/LearnJava.pdf",
+            "routerLink":"JavaQuiz",
+            "score":0
+        },
+        "Angular":
+        {
+            "name": "Item-1",
+            "slug": "Item-1",
+            "embed": "PRQCAL_RMVo",
+            "rule": "Angular",
+            "isActive": true,
+            "Completed":true,
+            "URL": "https://www.tutorialspoint.com/angularjs/angularjs_tutorial.pdf",
+            "routerLink":"AngularQuiz",
+            "score":0
+        },
+        "React":
+        {
+            "name": "Item-1",
+            "slug": "Item-1",
+            "embed": "A71aqufiNtQ",
+            "rule": "React",
+            "isActive": true,
+            "Completed":true,
+            "URL": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf",
+            "routerLink":"ReactQuiz",
+            "score":0
+        },
+        "CSS":
+        {
+            "name": "Item-1",
+            "slug": "Item-1",
+            "embed": "yfoY53QXEnI",
+            "rule": "CSS",
+            "isActive": true,
+            "Completed":true,
+            "URL": "https://www.tutorialspoint.com/css/css_tutorial.pdf",
+            "routerLink":"CSSQuiz",
+            "score":0
+        },
+        "HTML":
+        {
+            "name": "Item-1",
+            "slug": "Item-1",
+            "embed": "UB1O30fR-EE",
+            "rule": "HTML",
+            "isActive": true,
+            "Completed":true,
+            "URL": "https://www.tutorialspoint.com/html5/html5_tutorial.pdf",
+            "routerLink":"HTMLQuiz",
+            "score":0
+        }
+        
+}]}
